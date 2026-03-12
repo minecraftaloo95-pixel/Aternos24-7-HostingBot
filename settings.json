@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MANGOMC_hub.aternos.me",
+    "port": 61804,
     "version": "",
     "try-creative": false
   },
@@ -78,8 +78,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1476211230824988672/U_cUYc5PKBQc5iWbhmmjkJorN5zfgrgNgAS3fmNc3_zAAqnjmLaaYTMmEWF_wt3u8EdB",
     "events": {
       "connect": true,
       "disconnect": true,
